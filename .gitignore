@@ -1,0 +1,30 @@
+# Vidéos
+*.mp4
+*.MP4
+*.mkv
+*.avi
+
+# Fichiers audio/signaux
+*.wav
+*.complex
+*.bits
+
+# Dossiers volumineux
+zedboardTraining/
+source/
+HLS/
+vitis/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Système
+.DS_Store
+Thumbs.db
